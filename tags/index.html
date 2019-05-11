@@ -96,14 +96,17 @@
 
 
 
-  <meta property="og:type" content="website">
+  <meta name="description" content="惟願う歌に當たり 酒に對するの時, 月光長えに　金樽の裏を照らさんことを">
+<meta property="og:type" content="website">
 <meta property="og:title" content="tags">
 <meta property="og:url" content="http://yoursite.com/tags/index.html">
 <meta property="og:site_name" content="一期一会">
+<meta property="og:description" content="惟願う歌に當たり 酒に對するの時, 月光長えに　金樽の裏を照らさんことを">
 <meta property="og:locale" content="default">
 <meta property="og:updated_time" content="2019-05-10T06:50:34.991Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="tags">
+<meta name="twitter:description" content="惟願う歌に當たり 酒に對するの時, 月光長えに　金樽の裏を照らさんことを">
 
 
 
@@ -399,11 +402,19 @@
                   
                 
               
-              4 tags in total
+                
+                  
+                
+              
+                
+                  
+                
+              
+              6 tags in total
             </div>
             <div class="tag-cloud-tags">
               
-                <a href="/tags/Diary/" style="font-size: 30px; color: #111">Diary</a> <a href="/tags/Linux/" style="font-size: 30px; color: #111">Linux</a> <a href="/tags/Ubuntu/" style="font-size: 21px; color: #6f6f6f">Ubuntu</a> <a href="/tags/kali/" style="font-size: 12px; color: #ccc">kali</a>
+                <a href="/tags/CentOS-7/" style="font-size: 12px; color: #ccc">CentOS 7</a> <a href="/tags/Diary/" style="font-size: 30px; color: #111">Diary</a> <a href="/tags/Linux/" style="font-size: 24px; color: #4f4f4f">Linux</a> <a href="/tags/MacBookPro/" style="font-size: 12px; color: #ccc">MacBookPro</a> <a href="/tags/Ubuntu/" style="font-size: 18px; color: #8e8e8e">Ubuntu</a> <a href="/tags/kali/" style="font-size: 12px; color: #ccc">kali</a>
               
             </div>
           </div>
@@ -425,6 +436,13 @@
 
           </div>
           
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
 
   
 
@@ -454,7 +472,7 @@
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
               <p class="site-author-name" itemprop="name">明日的风</p>
-              <div class="site-description motion-element" itemprop="description"></div>
+              <div class="site-description motion-element" itemprop="description">惟願う歌に當たり 酒に對するの時, 月光長えに　金樽の裏を照らさんことを</div>
           </div>
 
           
@@ -464,7 +482,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">20</span>
+                    <span class="site-state-item-count">37</span>
                     <span class="site-state-item-name">posts</span>
                   </a>
                 </div>
@@ -508,7 +526,11 @@
                     
                       
                     
-                    <span class="site-state-item-count">4</span>
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">6</span>
                     <span class="site-state-item-name">tags</span>
                   </a>
                 </div>
@@ -682,6 +704,40 @@
 
   
 
+
+  
+    <!-- LOCAL: You can save these files to your site and update links -->
+
+  
+  <script src="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/gitmint.browser.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theme-next/theme-next-gitment@1/default.css">
+<!-- END LOCAL -->
+
+<script>
+  function renderGitment() {
+    var gitment = new Gitmint({
+      id: window.location.pathname,
+      owner: 'mingridefeng',
+      repo: 'mingridefeng.github.io',
+      
+        lang: '' || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+      
+      oauth: {
+      
+      
+        client_secret: 'b593e5788b5392e4da418a2d688d456858c259d5',
+      
+        client_id: '299f8c6351bd4c2553b2'
+      }
+    });
+    gitment.render('gitment-container');
+  }
+
+  
+    renderGitment();
+  
+</script>
 
   
 
