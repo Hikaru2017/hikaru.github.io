@@ -96,18 +96,18 @@
 
 
 
-  <meta name="description" content="最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。  unable to locate package linux-headers 不能定位头文件的软件包解决办法，先更新系统再安装:sudo apt-get update &amp;a">
+  <meta name="description" content="&amp;#160; &amp;#160; &amp;#160; &amp;#160; 最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。  unable to locate package linux-headers 不能定位头文件的软件包解决办法，先更新系统">
 <meta name="keywords" content="Linux,kali">
 <meta property="og:type" content="article">
 <meta property="og:title" content="安装完Kali之后的一切准备性工作">
 <meta property="og:url" content="http://yoursite.com/2018/08/05/安装完Kali之后的一切准备性工作/index.html">
 <meta property="og:site_name" content="一期一会">
-<meta property="og:description" content="最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。  unable to locate package linux-headers 不能定位头文件的软件包解决办法，先更新系统再安装:sudo apt-get update &amp;a">
+<meta property="og:description" content="&amp;#160; &amp;#160; &amp;#160; &amp;#160; 最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。  unable to locate package linux-headers 不能定位头文件的软件包解决办法，先更新系统">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2019-05-10T07:24:56.600Z">
+<meta property="og:updated_time" content="2019-05-11T12:04:52.382Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="安装完Kali之后的一切准备性工作">
-<meta name="twitter:description" content="最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。  unable to locate package linux-headers 不能定位头文件的软件包解决办法，先更新系统再安装:sudo apt-get update &amp;a">
+<meta name="twitter:description" content="&amp;#160; &amp;#160; &amp;#160; &amp;#160; 最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。  unable to locate package linux-headers 不能定位头文件的软件包解决办法，先更新系统">
 
 
 
@@ -413,29 +413,11 @@
                 
                   <span class="post-meta-item-text">Edited on</span>
                 
-                <time title="Modified: 2019-05-10 16:24:56" itemprop="dateModified" datetime="2019-05-10T16:24:56+09:00">2019-05-10</time>
+                <time title="Modified: 2019-05-11 21:04:52" itemprop="dateModified" datetime="2019-05-11T21:04:52+09:00">2019-05-11</time>
               
             
           </span>
 
-          
-            <span class="post-category">
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">In</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Linux/" itemprop="url" rel="index"><span itemprop="name">Linux</span></a></span>
-
-                
-                
-              
-            </span>
           
 
           
@@ -465,7 +447,7 @@
       
 
       
-        <p>  最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。</p>
+        <p>&#160; &#160; &#160; &#160; 最近开始重新学习并使用kali linux，其实早在两三年前我就了解并学习过一些关于kali的基础性的知识，现在重新捡起来也不算晚吧。现在记录一下我在安装并使用kali的过程中遇到的一些问题以及安装完成后的一些配置工作。</p>
 <ol>
 <li>unable to locate package linux-headers 不能定位头文件的软件包<br>解决办法，先更新系统再安装:<br><code>sudo apt-get update &amp;&amp; apt-get upgrade &amp;&amp; apt-get dist-upgrade&lt;/code&gt;</code><br><code>apt-get install linux-headers-$(uname -r)</code></li>
 <li>安装virtualbox的增强功能失败<br>首先从光盘中拷贝出<code>VBoxLinuxAdditions.run</code>文件并赋予执行权限<code>chmod +x VBoxLinuxAdditions.run</code>，然后运行。</li>
@@ -580,7 +562,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">7</span>
+                    <span class="site-state-item-count">20</span>
                     <span class="site-state-item-name">posts</span>
                   </a>
                 </div>
@@ -599,9 +581,7 @@
                     
                       
                     
-                      
-                    
-                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-count">1</span>
                     <span class="site-state-item-name">categories</span>
                   </a>
                 </div>
