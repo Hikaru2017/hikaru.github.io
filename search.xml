@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[SSH Tunnel隧道]]></title>
+    <url>%2Farticle%2F2019%2F05%2F14%2FSSH-Tunnel%E9%9A%A7%E9%81%93%2F</url>
+    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/14/SSH-Tunnel隧道/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Ubuntu</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[virtualbox网络配置的血泪史]]></title>
+    <url>%2Farticle%2F2019%2F05%2F13%2Fvirtualbox%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE%E7%9A%84%E8%A1%80%E6%B3%AA%E5%8F%B2%2F</url>
+    <content type="text"><![CDATA[写在片面的话：说来惭愧，本科专业虽是网络工程专业，但关于网络的大部分知识早就还给了老师，简单的virtualbox网络配置问题卡了好几天才整理出些许头绪，记下关键知识点以备日后查看。本文要解决的3大问题， 区分virtualbox虚拟机的四种网络配置的区别。 为什么“同样是连接Wi-Fi，在宿舍使用bridge模式虚拟机可自动获取ip，但到研究室虚拟机获取的却只有ipv6地址”。 为什么“在研究室使用bridge模式，虚拟机与宿主机不能同时上网”。 本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/13/virtualbox网络配置的血泪史/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <categories>
+        <category>Linux</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Ubuntu</tag>
+        <tag>virtualbox</tag>
+        <tag>Network</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[正在努力学习五笔打字法，写篇博文就当背字根了。]]></title>
     <url>%2Farticle%2F2019%2F05%2F11%2F%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E4%BA%94%E7%AC%94%E6%89%93%E5%AD%97%E6%B3%95%EF%BC%8C%E5%86%99%E7%AF%87%E5%8D%9A%E6%96%87%E5%B0%B1%E5%BD%93%E8%83%8C%E5%AD%97%E6%A0%B9%E4%BA%86%E3%80%82%2F</url>
     <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/正在努力学习五笔打字法，写篇博文就当背字根了。/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
