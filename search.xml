@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[SSH Tunnel隧道]]></title>
     <url>%2Farticle%2F2019%2F05%2F14%2FSSH-Tunnel%E9%9A%A7%E9%81%93%2F</url>
-    <content type="text"><![CDATA[未完待续 本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/14/SSH-Tunnel隧道/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+    <content type="text"><![CDATA[忙于写论文没时间更新，之后补上。 本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/14/SSH-Tunnel隧道/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
       <categories>
         <category>Linux</category>
       </categories>
@@ -25,21 +25,6 @@
         <tag>virtualbox</tag>
         <tag>Network</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[正在努力学习五笔打字法，写篇博文就当背字根了。]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2F%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E4%BA%94%E7%AC%94%E6%89%93%E5%AD%97%E6%B3%95%EF%BC%8C%E5%86%99%E7%AF%87%E5%8D%9A%E6%96%87%E5%B0%B1%E5%BD%93%E8%83%8C%E5%AD%97%E6%A0%B9%E4%BA%86%E3%80%82%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/正在努力学习五笔打字法，写篇博文就当背字根了。/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Python是面向过程还是面向对象？]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2FPython%E6%98%AF%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B%E8%BF%98%E6%98%AF%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%EF%BC%9F%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/Python是面向过程还是面向对象？/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[untitled.c:(.text+0x95)：对‘pthread_create’未定义的引用]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2Funtitled-c-text-0x95-%EF%BC%9A%E5%AF%B9%E2%80%98pthread-create%E2%80%99%E6%9C%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%BC%95%E7%94%A8%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/untitled-c-text-0x95-：对‘pthread-create’未定义的引用/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
   </entry>
   <entry>
     <title><![CDATA[Ubuntu：SSH无密码登陆]]></title>
@@ -265,6 +250,14 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[untitled.c:(.text+0x95)：对‘pthread_create’未定义的引用]]></title>
+    <url>%2Farticle%2F2017%2F10%2F18%2Funtitled-c-text-0x95-%EF%BC%9A%E5%AF%B9%E2%80%98pthread-create%E2%80%99%E6%9C%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%BC%95%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[解决办法：在末尾加-lpthread，原因暂时未知，改日补充。g++ untitled.c -lpthread 本文作者：明日的风本文地址： http://yoursite.com/article/2017/10/18/untitled-c-text-0x95-：对‘pthread-create’未定义的引用/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
+        <tag>C</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Linux下如何解压tar.bz2文件]]></title>
     <url>%2Farticle%2F2017%2F10%2F18%2FLinux%E4%B8%8B%E5%A6%82%E4%BD%95%E8%A7%A3%E5%8E%8Btar-bz2%E6%96%87%E4%BB%B6%2F</url>
     <content type="text"><![CDATA[解压：tar jxvf xxx.tar.bz2压缩：tar jcvf xxx.tar.bz2 本文作者：明日的风本文地址： http://yoursite.com/article/2017/10/18/Linux下如何解压tar-bz2文件/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
@@ -287,6 +280,14 @@
     <content type="text"><![CDATA[问题：Python编译过程中出现 IndentationError: expected an indented block解决方法：检查该行的缩进 本文作者：明日的风本文地址： http://yoursite.com/article/2017/08/25/IndentationError-expected-an-indented-block/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
       <tags>
         <tag>Linux</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Python是面向过程还是面向对象？]]></title>
+    <url>%2Farticle%2F2017%2F08%2F25%2FPython%E6%98%AF%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B%E8%BF%98%E6%98%AF%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%EF%BC%9F%2F</url>
+    <content type="text"><![CDATA[问：Python是面向过程还是面向对象？答：Python既支持面向过程也支持面向对象问：面向对象的三个基本要素？答：封装，继承，多态。 本文作者：明日的风本文地址： http://yoursite.com/article/2017/08/25/Python是面向过程还是面向对象？/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
         <tag>Python</tag>
       </tags>
   </entry>
