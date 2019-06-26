@@ -32,21 +32,6 @@
     <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/正在努力学习五笔打字法，写篇博文就当背字根了。/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
   </entry>
   <entry>
-    <title><![CDATA[从头开始]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2F%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/从头开始/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[惟愿无事常相见]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2F%E6%83%9F%E6%84%BF%E6%97%A0%E4%BA%8B%E5%B8%B8%E7%9B%B8%E8%A7%81%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/惟愿无事常相见/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[IndentationError: expected an indented block]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2FIndentationError-expected-an-indented-block%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/IndentationError-expected-an-indented-block/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[Python是面向过程还是面向对象？]]></title>
     <url>%2Farticle%2F2019%2F05%2F11%2FPython%E6%98%AF%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B%E8%BF%98%E6%98%AF%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%EF%BC%9F%2F</url>
     <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/Python是面向过程还是面向对象？/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
@@ -55,16 +40,6 @@
     <title><![CDATA[untitled.c:(.text+0x95)：对‘pthread_create’未定义的引用]]></title>
     <url>%2Farticle%2F2019%2F05%2F11%2Funtitled-c-text-0x95-%EF%BC%9A%E5%AF%B9%E2%80%98pthread-create%E2%80%99%E6%9C%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%BC%95%E7%94%A8%2F</url>
     <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/untitled-c-text-0x95-：对‘pthread-create’未定义的引用/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Linux下如何解压tar.bz2文件]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2FLinux%E4%B8%8B%E5%A6%82%E4%BD%95%E8%A7%A3%E5%8E%8Btar-bz2%E6%96%87%E4%BB%B6%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/Linux下如何解压tar-bz2文件/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Ubuntu下更新sublime text 3]]></title>
-    <url>%2Farticle%2F2019%2F05%2F11%2FUbuntu%E4%B8%8B%E6%9B%B4%E6%96%B0sublime-text-3%2F</url>
-    <content type="text"><![CDATA[本文作者：明日的风本文地址： http://yoursite.com/article/2019/05/11/Ubuntu下更新sublime-text-3/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
   </entry>
   <entry>
     <title><![CDATA[Ubuntu：SSH无密码登陆]]></title>
@@ -290,6 +265,32 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[Linux下如何解压tar.bz2文件]]></title>
+    <url>%2Farticle%2F2017%2F10%2F18%2FLinux%E4%B8%8B%E5%A6%82%E4%BD%95%E8%A7%A3%E5%8E%8Btar-bz2%E6%96%87%E4%BB%B6%2F</url>
+    <content type="text"><![CDATA[解压：tar jxvf xxx.tar.bz2压缩：tar jcvf xxx.tar.bz2 本文作者：明日的风本文地址： http://yoursite.com/article/2017/10/18/Linux下如何解压tar-bz2文件/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Ubuntu下更新sublime text 3]]></title>
+    <url>%2Farticle%2F2017%2F10%2F18%2FUbuntu%E4%B8%8B%E6%9B%B4%E6%96%B0sublime-text-3%2F</url>
+    <content type="text"><![CDATA[Install the GPG key:wget -qO – https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add – Ensure apt is set up to work with https sources:sudo apt-get install apt-transport-httpsSelect the channel to use:Stableecho “deb https://download.sublimetext.com/ apt/stable/” | sudo tee /etc/apt/sources.list.d/sublime-text.listDevecho “deb https://download.sublimetext.com/ apt/dev/” | sudo tee /etc/apt/sources.list.d/sublime-text.listUpdate apt sources and install Sublime Textsudo apt-get updatesudo apt-get install sublime-text 本文作者：明日的风本文地址： http://yoursite.com/article/2017/10/18/Ubuntu下更新sublime-text-3/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Ubuntu</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[IndentationError: expected an indented block]]></title>
+    <url>%2Farticle%2F2017%2F08%2F25%2FIndentationError-expected-an-indented-block%2F</url>
+    <content type="text"><![CDATA[问题：Python编译过程中出现 IndentationError: expected an indented block解决方法：检查该行的缩进 本文作者：明日的风本文地址： http://yoursite.com/article/2017/08/25/IndentationError-expected-an-indented-block/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
+        <tag>Linux</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[vi编辑器如何对段落整体缩进]]></title>
     <url>%2Farticle%2F2017%2F08%2F15%2Fvi%E7%BC%96%E8%BE%91%E5%99%A8%E5%A6%82%E4%BD%95%E5%AF%B9%E6%AE%B5%E8%90%BD%E6%95%B4%E4%BD%93%E7%BC%A9%E8%BF%9B%2F</url>
     <content type="text"><![CDATA[command + shift + &lt;/&gt; 本文作者：明日的风本文地址： http://yoursite.com/article/2017/08/15/vi编辑器如何对段落整体缩进/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
@@ -310,6 +311,22 @@
     <title><![CDATA[写在前面的话]]></title>
     <url>%2Farticle%2F2017%2F07%2F06%2F%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2%E7%9A%84%E8%AF%9D%2F</url>
     <content type="text"><![CDATA[写在前面的话：磨磨叽叽的终于把博客搭起来了，计划先把之前发在新浪博客的博文都搬过来，虽然总共也没几篇，但终究是自己一字一句写出来的，现在再回头看看当时写的很多东西，还觉得挺有意思的。我出生的医院门前的路叫环城路，所以域名选了环城路的拼音，寓意新的开始，新的希望。预计会分享一些技术类的文章，比如网络安全，信息安全，网络，编程等。艺术类，比如古典音乐，萨克斯曲，音乐会等。语言类，包括但不限于英语，日语。电影图书类，比如我最近在看的书或电影，书摘，读书笔记等。为了明日要吹来的风。 本文作者：明日的风本文地址： http://yoursite.com/article/2017/07/06/写在前面的话/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[惟愿无事常相见]]></title>
+    <url>%2Farticle%2F2014%2F03%2F07%2F%E6%83%9F%E6%84%BF%E6%97%A0%E4%BA%8B%E5%B8%B8%E7%9B%B8%E8%A7%81%2F</url>
+    <content type="text"><![CDATA[引用村上村树的书 当我谈跑步的时候 我谈些什么晨跑一周平均每天800米+ 其实跑步也没那么痛苦呀 用来自虐比拿刀割自己爽多了 = =今天想谈谈小团伙 何为小团伙 引用《大学生小团体主义思想的表现与成因》中的一段话“部分大学生在寻求情感归属与利益归属时,由于受传统宗法观念、江湖义气、哥们儿义气、个人主义、利己主义、功利主义等一系列恶劣风气的影响,再加之作为不成熟的个体,不能很好地处理好眼前利益与长远利益,个人利益与集体利益的关系,不能从宽容、民主、平等、和谐等现代立场出发来处理与其他同学及集体的关系,陷入了小团体主义思想的泥潭,有悖于大学生自身的健康成长,也对大学教育带来一定的负面影响。”干什么都得有人陪自己走 自己上课 自己吃饭被看做是丢人的事情 这种心态是普遍存在的吧 除了少数像我这样的奇葩喜欢独处以外 大部分人还是需要一个能够陪伴自己的人 我就是那种 就算是所有人都不联系我 我也不会觉得寂寞的人 那又怎样 我从不觉得谁应该陪伴我或者我有义务陪伴谁 不过是相互需要 即便是互相利用 那为什么不找一个和我性情相匹配的人陪伴 我可不是饥不择食寒不择衣的人 我等得起 也不怕被嘲笑突然意识到 别人的生活并不像眼睛所看到的那样光彩 即便是 我崇拜的X 在生活中也是个小女生模样吧 着手办老乡会 感觉力不从心 挑不起大梁 难以胜任 明显的能力跟不上野心 还需要多磨练多受打击 还需要多和老师交往 多和人打交道 还是不够果敢 不够外向还是在关键的时刻退缩 还是 还是 还是 本文作者：明日的风本文地址： http://yoursite.com/article/2014/03/07/惟愿无事常相见/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
+      <tags>
+        <tag>Diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[从头开始]]></title>
+    <url>%2Farticle%2F2014%2F03%2F01%2F%E4%BB%8E%E5%A4%B4%E5%BC%80%E5%A7%8B%2F</url>
+    <content type="text"><![CDATA[到学校的第一个晚上剪去了有生之年最长的头发 也没什么故事 就是 突然地 不想往长留了人总是要面对现实的 不能沉迷于自己的幻想之中久久不能自拔 我比任何人都清楚 我不是那样的人为什么偏偏要逼着自己成为那样的人 何为上进 何为会来事 何为明礼诚信我本不善言辞 内向 腼腆 怕失败 懒惰 自私 冷血 拖沓 为什么偏要在别人眼前塑造另一个外向开朗的病态模样 记得有这样一句话 大致意思是 人总是因为不够强大而向别人证明自己 也往往因为足够强大而不屑于证明我因为谁的几句话而剪去头发 我因为谁的嘲讽而减肥 我想证明什么 我想给谁证明生活还在继续 谁都不会等谁 要拼了命的往前跑 纵使跑不在所有人之前 也解决不垫底 我愿意付出我所能付出的一切 来换取我最终想要的价值观不同的人怎么交流 话不投机半句多 总不能和所有的人都成为小伙伴吧不思进取的人就好比扶不上的墙的烂泥 一直觉得有句话说的特别好 你认识多少人不重要 重要的是多少人认识你 过去的已经过去了重要的是眼前的 能抓得到的 这才是真的嗯 就这样 本文作者：明日的风本文地址： http://yoursite.com/article/2014/03/01/从头开始/ 版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 CN 许可协议，转载请注明出处。]]></content>
       <tags>
         <tag>Diary</tag>
       </tags>
