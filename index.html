@@ -791,7 +791,7 @@
           <h1 class="post-title" itemprop="name headline">
                 
                 
-                <a href="/posts/25480/" class="post-title-link" itemprop="url">2020.9.27</a>
+                <a href="/posts/25480/" class="post-title-link" itemprop="url">Sun Sep 27 2020 00:00:00 GMT+0900 (Japan Standard Time)</a>
               
             
           </h1>
@@ -852,10 +852,16 @@
 
       
         
+          Here's something encrypted, password is required to continue reading.
+          <!--noindex-->
           
-            <p>2017/9/27 - 2020/9/27<br>一别两三年，匆匆又秋天。<br>来日本三年整。</p>
-
+            <div class="post-button text-center">
+              <a class="btn" href="/posts/25480/#more" rel="contents">
+                Read more &raquo;
+              </a>
+            </div>
           
+          <!--/noindex-->
         
       
     </div>
@@ -2463,7 +2469,7 @@
       else if (!isArchive && !isCategory && !isTag) { //is index page
         var titles = [] //array to titles
 
-        var postsstr = 'titles.push("写在前面的话");titles.push("酸辣汤与豚汁");titles.push("2025の君へ");titles.push("2020.9.27");titles.push("爱你恨你 问君知否");titles.push("爱情转移");titles.push("人生短短几个秋，不醉不方休。");titles.push("あした晴れだったら");titles.push("困在漩涡里太久，现在终于看到了晴天");titles.push("万事开头难，中间难，却不见得最后也难");' //if you have a better way to get titles of posts, please change it
+        var postsstr = 'titles.push("写在前面的话");titles.push("酸辣汤与豚汁");titles.push("2025の君へ");titles.push("Sun Sep 27 2020 00:00:00 GMT+0900 (Japan Standard Time)");titles.push("爱你恨你 问君知否");titles.push("爱情转移");titles.push("人生短短几个秋，不醉不方休。");titles.push("あした晴れだったら");titles.push("困在漩涡里太久，现在终于看到了晴天");titles.push("万事开头难，中间难，却不见得最后也难");' //if you have a better way to get titles of posts, please change it
         eval(postsstr)
 
         var promises = titles.map(function (title) {
